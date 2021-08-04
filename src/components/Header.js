@@ -28,7 +28,7 @@ Header.propTypes={
 
 //css in JS
 // const headingStyle={
-//     color:'red',
+//     color:'red',a
 //     backgroundColor:'black'
 // }
 
